@@ -1,0 +1,30 @@
+.btn{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+.btn:hover {
+    color: darkblue;
+  }
+.delbtn{
+    color: red;
+    text-decoration: underline;
+    border: none;
+    background-color: #fff;
+}
+.delbtn:hover{
+    color: darkred;
+}
+.reimburstment
+{
+    color: #3b60a3;
+    border: 1px solid #3b60a3;
+    background: none;
+}
+.claim{
+    color: #3b60a3;
+    font-size: 15px;
+    font-weight: bold;
+}
+.modal.show{
+    display: block;
+}
